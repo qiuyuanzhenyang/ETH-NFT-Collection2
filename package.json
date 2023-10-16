@@ -13,5 +13,8 @@
     "contract": "yarn workspace contract",
     "client": "yarn workspace client",
     "test": "yarn workspace contract test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0"
   }
 }
